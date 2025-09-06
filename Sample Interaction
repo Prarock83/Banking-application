@@ -1,0 +1,16 @@
+===============================
+  Welcome to Banking System  
+===============================
+1. Create a new account
+2. Deposit money
+3. Withdraw money
+4. View account details
+5. Update contact details
+6. List all accounts
+7. Exit
+Enter your choice: 1
+Enter account holder name: Pratham Sharma 
+Enter initial deposit amount: 20000
+Enter email address: prathamjis@gmail.com
+Enter phone number (10 digits): 9876545654
+Account created successfully! Account Number: 1001
